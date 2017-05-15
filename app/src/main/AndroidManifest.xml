@@ -19,7 +19,7 @@
         <activity android:name=".activities.MovieDetailsActivity"
                   android:theme="@style/AppTheme">
         </activity>
-        <activity android:name=".YoutubeActivity">
+        <activity android:name=".activities.YoutubeActivity">
         </activity>
     </application>
 
