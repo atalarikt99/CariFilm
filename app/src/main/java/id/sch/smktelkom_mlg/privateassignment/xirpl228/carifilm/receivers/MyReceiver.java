@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.privateassignment.xirpl228.carifilm.activities.receivers;
+package id.sch.smktelkom_mlg.privateassignment.xirpl228.carifilm.receivers;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
